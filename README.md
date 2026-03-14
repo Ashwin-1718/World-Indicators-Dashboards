@@ -2,7 +2,7 @@
 
 This project presents interactive dashboards built using **Power BI** and **Microsoft Excel** to analyze global economic, health, and development indicators. The goal of this project is to transform raw data into meaningful insights through data visualization and analytical dashboards.
 
----
+---g
 
 ## 📊 Project Overview
 
