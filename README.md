@@ -2,18 +2,14 @@
 
 ## 📌 Project Overview
 
-This repository contains **interactive dashboards built using Microsoft Excel and Power BI** to analyze business and world development indicators.
-The goal of these dashboards is to transform raw data into **meaningful visual insights** that help understand trends, performance, and relationships between key indicators.
-
-The project demonstrates **data analysis, visualization, and dashboard design skills** using industry-standard tools.
-
----
+**This repository showcases interactive data analytics dashboards developed using Microsoft Excel and Power BI as part of my Data Analytics Internship at Grras IT Solutions.
+The project focuses on transforming raw datasets into insightful and interactive visual dashboards that help analyze business performance and global socio-economic indicators.**
 
 
 # 📈 Excel Dashboard – Company Performance Analysis
 
 ## Dashboard Objective
-# Preview 
+* Preview 
 <p align="center">
   <img src="assets/Excel.png" alt="Project Banner" />
 </p>
@@ -122,7 +118,7 @@ All charts automatically update based on the selected continent.
 # 🌍 Power BI Dashboard – World Indicators Analysis
 
 ## Dashboard Objective
-## Preview 
+* Preview 
 <p align="center">
   <img src="assets/Power BI.png" alt="Project Banner" />
 </p>
@@ -227,13 +223,14 @@ A **heatmap matrix** showing correlations between:
 * Interactive Reporting
 
 ---
+# 👨‍💻 Author
 
-# 📬 Author
+**Ashwin Yadav** <br>
+M.Sc. IT – Data Management, Analytics & Visual Insight <br>
+Gujarat University  
 
-**Ashwin Yadav**
-
-M.Sc. IT – Data Management, Analytics & Visual Insight
-Gujarat University
+📌 Project developed during **Data Analytics Internship at Grras IT Solutions**
 ---
 
-⭐ If you found this project helpful, feel free to give it a star.
+⭐ If you found this project useful, feel free to give it a star.
+
