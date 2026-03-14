@@ -9,9 +9,14 @@ The project demonstrates **data analysis, visualization, and dashboard design sk
 
 ---
 
+
 # 📈 Excel Dashboard – Company Performance Analysis
 
 ## Dashboard Objective
+# Preview 
+<p align="center">
+  <img src="assets/Excel.png" alt="Project Banner" />
+</p>
 
 The Excel dashboard analyzes company sales performance across different dimensions such as time, categories, customers, and geography.
 
@@ -117,6 +122,10 @@ All charts automatically update based on the selected continent.
 # 🌍 Power BI Dashboard – World Indicators Analysis
 
 ## Dashboard Objective
+## Preview 
+<p align="center">
+  <img src="assets/Power BI.png" alt="Project Banner" />
+</p>
 
 The Power BI dashboard analyzes **global socio-economic indicators** to understand relationships between economic growth, health investment, technology adoption, and poverty reduction.
 
@@ -221,11 +230,10 @@ A **heatmap matrix** showing correlations between:
 
 # 📬 Author
 
-**Ashwin Ashok Yadav**
+**Ashwin Yadav**
 
 M.Sc. IT – Data Management, Analytics & Visual Insight
 Gujarat University
-
 ---
 
 ⭐ If you found this project helpful, feel free to give it a star.
