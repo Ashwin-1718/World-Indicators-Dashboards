@@ -1,108 +1,231 @@
-# 🌍 World Indicators Dashboards
+# 📊 Data Analytics Dashboards (Excel & Power BI)
 
-This project presents interactive dashboards built using **Power BI** and **Microsoft Excel** to analyze global economic, health, and development indicators. The goal of this project is to transform raw data into meaningful insights through data visualization and analytical dashboards.
+## 📌 Project Overview
 
----g
+This repository contains **interactive dashboards built using Microsoft Excel and Power BI** to analyze business and world development indicators.
+The goal of these dashboards is to transform raw data into **meaningful visual insights** that help understand trends, performance, and relationships between key indicators.
 
-## 📊 Project Overview
+The project demonstrates **data analysis, visualization, and dashboard design skills** using industry-standard tools.
 
-The dashboards provide insights into global indicators such as:
+---
 
-* GDP per capita
+# 📈 Excel Dashboard – Company Performance Analysis
+
+## Dashboard Objective
+
+The Excel dashboard analyzes company sales performance across different dimensions such as time, categories, customers, and geography.
+
+## Key Metrics (KPI Cards)
+
+The dashboard highlights important business indicators:
+
+* Total Sales
+* Total Customers
+* Total Countries Dealing
+* Total Categories Dealing
+* Total Profit
+
+These KPIs provide a quick snapshot of business performance.
+
+---
+
+## Visualizations Included
+
+### 1️⃣ Sales & Profit Over Time
+
+A **line chart** showing the trend of sales and profit across months.
+
+Purpose:
+
+* Identify seasonal trends
+* Understand sales growth patterns
+
+---
+
+### 2️⃣ Orders Processed by Day of Week
+
+A **horizontal bar chart** showing which days receive the most orders.
+
+Insight:
+Helps understand peak business activity days.
+
+---
+
+### 3️⃣ Sales by Category and Gender
+
+A **stacked column chart** comparing male and female customer purchases across categories.
+
+Categories include:
+
+* Books
+* Electronics
+* Fashion
+* Home
+* Toys
+
+---
+
+### 4️⃣ Customer Distribution by Country
+
+A **Treemap visualization** representing customer concentration across countries.
+
+Purpose:
+
+* Identify high-customer regions
+* Understand geographic reach.
+
+---
+
+### 5️⃣ Contribution of Each Category to Total Profit
+
+A **Waterfall Chart** showing how each category contributes positively or negatively to overall profit.
+
+---
+
+### 6️⃣ Company Contribution to Product Line
+
+A **Pie Chart** displaying the share of different companies within the product ecosystem.
+
+Examples:
+
+* Apple
+* Samsung
+* Sony
+* LG
+* Adidas
+* Bose
+
+---
+
+### 7️⃣ Continent Filter (Interactive Slicer)
+
+The dashboard includes a **continent slicer** allowing users to filter the entire dashboard dynamically.
+
+Supported continents:
+
+* Africa
+* Asia
+* Europe
+* North America
+* Oceania
+* South America
+
+All charts automatically update based on the selected continent.
+
+---
+
+# 🌍 Power BI Dashboard – World Indicators Analysis
+
+## Dashboard Objective
+
+The Power BI dashboard analyzes **global socio-economic indicators** to understand relationships between economic growth, health investment, technology adoption, and poverty reduction.
+
+---
+
+## Key Metrics
+
+The dashboard highlights:
+
+* Average GDP per Capita
+* Average Trade Value
+* Health Expenditure (% of GDP)
+* GDP Growth Rate
+* Percentage of Land Under Forest
+
+These indicators provide a high-level view of economic and environmental development.
+
+---
+
+## Visualizations Included
+
+### 1️⃣ Health Expenditure by Region
+
+A **bar chart** comparing average health expenditure across world regions.
+
+Insight:
+Highlights regional differences in healthcare investment.
+
+---
+
+### 2️⃣ Socio-Economic Indicators Over Time
+
+A **multi-line trend chart** tracking indicators such as:
+
+* Internet subscriptions
+* Renewable energy use
+* Immunization rates
+* Unemployment
+* GDP indicators
+
+This visualization helps analyze development trends over time.
+
+---
+
+### 3️⃣ Internet Penetration vs Immunization
+
+A **scatter plot** analyzing whether increased internet access correlates with improved immunization awareness.
+
+---
+
+### 4️⃣ Internet Penetration vs Unemployment
+
+A **scatter plot with trend line** to investigate if higher internet access impacts unemployment levels.
+
+---
+
+### 5️⃣ Top 10 Countries in Poverty Reduction
+
+A **bar chart** showing countries that achieved the highest reduction in poverty levels.
+
+---
+
+### 6️⃣ Bottom 10 Countries in Poverty Reduction
+
+A **bar chart** identifying countries struggling with poverty reduction.
+
+---
+
+### 7️⃣ Correlation of Health Indicators
+
+A **heatmap matrix** showing correlations between:
+
 * Health expenditure
-* Trade value
-* Forest land percentage
-* GDP growth rate
-* Regional comparisons
-* Country-level analysis
-
-The project demonstrates **data analysis, visualization, and dashboard design skills** using modern analytics tools.
+* Life expectancy
+* Immunization
+* Disease indicators
 
 ---
 
-## 🛠 Tools & Technologies Used
+# 🛠 Tools Used
 
-* Power BI
-* Microsoft Excel
+* **Microsoft Excel**
+* **Power BI**
+* Data Visualization Techniques
+* Pivot Tables
+* DAX Measures
+* Interactive Filters & Slicers
+
+---
+
+
+# 📊 Skills Demonstrated
+
+* Data Cleaning
 * Data Visualization
-* Data Analysis
 * Dashboard Design
-* DAX (Data Analysis Expressions)
+* Business Analytics
+* Power BI DAX
+* Interactive Reporting
 
 ---
 
-## 📈 Power BI Dashboard Features
+# 📬 Author
 
-* Interactive **region slicer**
-* KPI cards for key indicators
-* **Top 10 and Bottom 10 countries** comparison
-* Indicator trends over time
-* Correlation analysis between indicators
-* Health expenditure comparison across regions
-* Scatter plots for indicator relationships
+**Ashwin Ashok Yadav**
 
-These visualizations help identify patterns and relationships between global economic and development indicators.
+M.Sc. IT – Data Management, Analytics & Visual Insight
+Gujarat University
 
 ---
 
-## 📊 Excel Dashboard Features
-
-The Excel dashboard focuses on company performance and includes:
-
-* Sales and profit trend analysis
-* Orders by weekday
-* Category sales distribution by gender
-* Profit contribution by category
-* Customer base visualization
-* Company product contribution analysis
-* Interactive slicers for filtering data
-
----
-
-## 📷 Dashboard Preview
-
-### Power BI Dashboard
-
-*(Add screenshot in images folder and update path)*
-
-```
-images/powerbi_dashboard.png
-```
-
-### Excel Dashboard
-
-*(Add screenshot in images folder and update path)*
-
-```
-images/excel_dashboard.png
-```
-
----
-
-## 🎯 Key Insights
-
-* Regions with higher **health expenditure** generally show better development indicators.
-* **GDP per capita varies significantly across regions**, highlighting economic disparity.
-* **Trade values and economic indicators** show patterns linked to regional development.
-* Data visualization helps quickly identify **top and bottom performing countries**.
-
----
-
-## 🚀 Future Improvements
-
-* Add geographical **map visualizations**
-* Include **predictive analysis**
-* Integrate additional global datasets
-* Enhance dashboard interactivity
-
----
-
-## 👨‍💻 Author
-
-**Ashwin**
-
-Aspiring **Data Analyst** passionate about transforming data into actionable insights using visualization and analytical tools.
-
----
-
-⭐ If you found this project useful, consider giving it a **star** on GitHub.
+⭐ If you found this project helpful, feel free to give it a star.
