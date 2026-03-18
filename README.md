@@ -229,7 +229,7 @@ A **heatmap matrix** showing correlations between:
 M.Sc. IT – Data Management, Analytics & Visual Insight <br>
 Gujarat University  
 
-📌 Project developed during **Data Analytics Internship at Grras IT Solutions**
+* 📌 Project developed during **Data Analytics Internship at Grras IT Solutions** 
 ---
 
 ⭐ If you found this project useful, feel free to give it a star.
